@@ -1,8 +1,6 @@
 # BridgeUP STEM Climate Coders
 Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 Brown Internship group!
 
-![Spongebob gif](misc/spongebob.gif)
-
 ## Quick links
 :tropical_fish: [Exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSd90pkGmwXXCRB00r7JXDJOwVnI1aWDJmv3f8ZE53DXGqzv4A/viewform) </br>
 :tropical_fish: [Guides and cheatsheets](./guides) </br>
