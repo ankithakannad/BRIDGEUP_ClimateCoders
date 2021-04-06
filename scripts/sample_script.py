@@ -7,7 +7,7 @@ def hello(name):
 #Main script
 def main():
 	
-	name = 'Beyonce'
+	name = 'Ankitha'
 	hello(name)
 
 #Run script
