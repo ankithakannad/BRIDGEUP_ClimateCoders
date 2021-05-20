@@ -34,6 +34,8 @@ def main():
 	#temp_anom = (12,2,330,720)
 	temp_anom_yr = temp_anom.mean(axis = 0)
 	print(temp_anom_yr.shape)
+	
+	print('hello')
 
 #Execute main script
 if __name__ == '__main__':
